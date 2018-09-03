@@ -10,3 +10,4 @@ Galaxy
  - FFmpeg
  - CasparCG
  - Grafana
+ - AI
